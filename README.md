@@ -1,7 +1,7 @@
 # <div align="center">👋 Hi, I'm Shiva Bhargav Bhuvanam</div>
 
 ## 🚀 About Me
-Software Engineer with **2+ years of experience** building **scalable, cloud-native systems**
+Software Engineer with **3+ years of experience** building **scalable, cloud-native systems**
 - Graduate @ Northeastern University
 - 🧠 Implementing agentic architectures, RAG systems, and multi-agent workflows
 - 🌐 Developing full-stack data-intensive applications
